@@ -1,0 +1,11 @@
+*.o
+*.exe
+*.log
+*.bak
+*.settings
+*.project
+*.classpath
+*.user
+*.vs
+/bin/
+/obj/
